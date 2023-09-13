@@ -22,10 +22,10 @@ It provides information about the bootcamp including a schedule of sessions, spe
 - Social media links and a footer with copyright information are included.
 
 
-![Output](https://github.com/munira-bjit/bootstrapping/blob/main/BootstrapAssignment/Outputs/output1.PNG)
-![Output](https://github.com/munira-bjit/bootstrapping/blob/main/BootstrapAssignment/Outputs/output2.PNG)
-![Output](https://github.com/munira-bjit/bootstrapping/blob/main/BootstrapAssignment/Outputs/output4.PNG)
-![Output](https://github.com/munira-bjit/bootstrapping/blob/main/BootstrapAssignment/Outputs/output3.PNG)
+![Output](https://github.com/Sirajam-Munira/Responsive-webpage-with-bootstrap/blob/main/BootstrapAssignment/Outputs/output1.PNG)
+![Output](https://github.com/Sirajam-Munira/Responsive-webpage-with-bootstrap/blob/main/BootstrapAssignment/Outputs/output2.PNG)
+![Output](https://github.com/Sirajam-Munira/Responsive-webpage-with-bootstrap/blob/main/BootstrapAssignment/Outputs/output4.PNG)
+![Output](https://github.com/Sirajam-Munira/Responsive-webpage-with-bootstrap/blob/main/BootstrapAssignment/Outputs/output3.PNG)
 
 
 
